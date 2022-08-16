@@ -1,0 +1,355 @@
+.pict {
+    background-image: url(/src/images/head1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40rem;
+}
+.p1
+{
+    padding-left: 13rem;
+    padding-top: 23rem;
+}
+.p2{
+    width: 25rem;
+    padding-left: 13rem;
+}
+.btn1
+{
+    width: 7rem;
+    height: 2rem;
+    border-radius: 20px;
+    margin-left: 13rem;
+}
+
+
+/* Second component */
+.snd
+{
+    width: 100%;
+    background-color: white;
+    height: 8rem;
+}
+.hd
+{
+    padding-left: 13rem;
+    padding-top: 1rem;
+}
+.pgf
+{
+    text-align: center/left/right;
+    width: 55rem;
+    
+    padding-left: 13rem;
+    padding-bottom: 3rem;
+}
+
+/* Third Section */
+
+.thrd
+{
+    background-size: cover;
+    height: 6rem;
+    background-color: rgb(238, 180, 74);
+    padding-top: 3rem;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 3rem;
+
+
+}
+
+/* Fourth section */
+.frt{
+    background-size: cover;
+    background-color: white;
+    height: 18rem;
+}
+.frtintro
+{
+width: 17.2rem;
+height: 17rem;
+background-color:rgb(238, 180, 74); 
+float: left;
+align-items: stretch;
+margin-left: 13rem;
+
+}
+
+.frttxt{
+    margin-left: 13rem;
+}
+.bgfrt
+{
+    background-image: url(/src/images/images1.jpg);
+    background-repeat: no-repeat;
+    height: 10rem;
+    width: 17.5rem;
+    
+    
+}
+.btnfrt
+{
+    width: 7rem;
+    height: 2rem;
+    border-radius: 5rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    background-color:rgb(238, 180, 74); 
+    
+
+}
+.frthd1
+{
+    margin-left: 1rem;
+}
+.frtpgf1
+{
+    margin-left: 1rem;
+}
+
+/* second picture */
+
+.frtintro2
+{
+width: 17rem;
+height: 17rem;
+background-color:rgb(238, 180, 74); 
+float: left;
+margin-left: 3rem;
+align-items: stretch;
+}
+
+.bgfrt2
+{
+    background-image: url(/src/images/images2.jpg);
+    background-repeat: no-repeat;
+    height: 10rem;
+    width: 17.5rem;
+   
+    
+}
+.btnfrt2
+{
+    width: 7rem;
+    height: 2rem;
+    border-radius: 5rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    background-color:rgb(238, 180, 74); 
+    float: left;
+
+
+}
+.frthd2
+{
+    margin-left: 1rem;
+}
+.frtpgf2
+{
+    margin-left: 1rem;
+}
+
+
+/* Third Picture */
+
+.frtintro3
+{
+width: 17rem;
+height: 17rem;
+background-color:rgb(238, 180, 74); 
+float: left;
+margin-left: 3rem;
+align-items: stretch;
+margin-left: 3rem;
+}
+
+.bgfrt3
+{
+    background-image: url(/src/images/images3.jpg);
+    background-repeat: no-repeat;
+    height: 10rem;
+    width: 17rem;
+   
+    
+}
+.btnfrt3
+{
+    width: 7rem;
+    height: 2rem;
+    border-radius: 5rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    background-color:rgb(238, 180, 74); 
+    float: left;
+
+
+}
+
+.frthd3
+{
+    margin-left: 1rem;
+}
+.frtpgf3
+{
+    margin-left: 1rem;
+}
+
+/* Fifth section style */
+.fv
+{
+    margin-top: 7rem;
+    
+}
+.ftxt{
+    margin-left: 13rem;
+}
+.fpctr4
+{
+    width: 13rem;
+    height: 10rem;
+    margin-left: 13rem;
+  float: left;
+
+    
+}
+
+ .fpctr5
+{
+    width: 13rem;
+    height: 10rem;
+    margin-left: 1.8rem;
+  float: left;
+}
+
+.fpctr6
+{
+    width: 13rem;
+    height: 10rem;
+    margin-left: 1.8rem;
+    float: left;
+} 
+.fpctr7
+{
+    width: 13rem;
+    height: 10rem;
+    margin-left: 1.8rem;
+    float: left;
+} 
+
+
+.fpctr8
+{
+    width: 13rem;
+    height: 10rem;
+    margin-left: 13rem;
+  float: left;
+margin-top: 2rem;   
+}
+
+ .fpctr9
+{
+    width: 13rem;
+    height: 10rem;
+    margin-left: 1.8rem;
+  float: left;
+  margin-top: 2rem;   
+}
+
+.fpctr10
+{
+    width: 13rem;
+    height: 10rem;
+    margin-left: 1.8rem;
+    float: left;
+    margin-top: 2rem;   
+} 
+.fpctr11
+{
+    width: 13rem;
+    height: 10rem;
+    margin-left: 1.8rem;
+    float: left;
+    margin-top: 2rem;   
+} 
+
+/* Sixth Section */
+.sxt
+{
+    background-size: cover;
+    width: 100%;
+    background-color:rgb(238, 180, 74); ;
+    height: 10rem;
+    margin-top: 5rem;
+    float: left;
+    
+}
+
+.shdr
+{
+    padding-top: 0.5rem;
+    margin-left: 17rem;
+   
+}
+.sh{
+margin-left: 17rem;
+float: left;
+}
+.sbtn
+{
+    margin-left: 18rem;
+    border-radius: 2rem;
+    height: 2rem;
+    width: 7rem;
+    border-color: white;
+}
+
+/* Seven Section/Footer */
+.svnhdr
+{
+    margin-top: 40rem;
+    text-align: center;
+}
+
+.svnpct{
+    background-image: url(/src/images/images12.png);
+    background-repeat: no-repeat;
+   width: 8rem;
+    height: 5rem;
+    float: left;
+    margin-left: 14rem;
+    
+}
+.svntxt
+{
+    padding-top: 1rem;
+ 
+
+}
+.svnpct2{
+    background-image: url(/src/images/images13.png);
+    background-repeat: no-repeat;
+   width: 9rem;
+    height: 5rem;
+    float: left;
+    margin-left: 6.5rem;
+    
+    
+}
+.svnpct3{
+    background-image: url(/src/images/images14.png);
+    background-repeat: no-repeat;
+   width: 9rem;
+    height: 5rem;
+    float: left;
+    margin-left:6.5rem;
+    
+}
+.svnpct4{
+    background-image: url(/src/images/images15.png);
+    background-repeat: no-repeat;
+   width: 9rem;
+    height: 5rem;
+    float: left;
+    margin-left: 6.5rem;
+    
+}
